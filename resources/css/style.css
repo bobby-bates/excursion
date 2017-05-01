@@ -1,7 +1,28 @@
 html {
   background-color: black;
   text-align: center;
+  font-family: verdana;
 }
-h1, h2, p, h4 {
+.title {
   color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+a {
+  font-family: verdana;
+  color: aquamarine;
+  font-size: 16px;
+}
+.subtitle {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+.description {
+  color: gray;
+  font-size: 21px;
+}
+.copyright {
+  text-align: right;
+  color: gray;
 }
